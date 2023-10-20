@@ -7,6 +7,8 @@ public class Program {
 
 	public static void main(String[] args) {
 		
+		//Este programa calcula as raízes de uma equação de segundo grau.
+		
 		Locale.setDefault(Locale.US);
 		Scanner t = new Scanner(System.in);
 		
